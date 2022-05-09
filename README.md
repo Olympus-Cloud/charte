@@ -5,6 +5,7 @@ CHARTE D’UTILISATION DU RESEAU INFORMATIQUE
 
 Les règles et obligations, ci-dessous énoncées, s’appliquent à toute personne utilisant les serveurs/VPS, le réseau et le serveur informatique de l'hébergeur Olympus-Cloud.
 L’ensemble de ce dispositif est désigné, ci-dessous, par le terme " réseau ".
+L'utilisateur devra impérativement avoir 15 ans révolus pour la revente, l'achat, ou quelconque actions comportant un échange monétaire, de services, et de bien.
 
 # II – CONDITIONS D’ACCES
 
