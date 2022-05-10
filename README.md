@@ -13,7 +13,7 @@ Chaque utilisateur se voit attribuer un identifiant et un mot de passe qui lui p
 > • de se connecter à son serveur/VPS,
 > • d’utiliser les ressources informatiques 
 > • d’accéder aux informations et ressources présents sur son serveur
-> 
+> • la mention "à vie" sera utilisé pour une période d'achat de minimum 1 an.
 Cet identifiant et ce mot de passe sont strictement personnels et __confidentiels.__
 Chaque utilisateur est responsable de l’usage qui en est fait.
 Nul n’est autorisé à utiliser le compte d’autrui sans autorisation au préalable .
